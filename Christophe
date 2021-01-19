@@ -1,0 +1,5 @@
+ALGORITHM parcours
+variable i : entier
+Pour i = 1 à 100 faire
+  Afficher i
+FPour
