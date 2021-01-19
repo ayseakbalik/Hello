@@ -1,0 +1,11 @@
+Algorithme loose
+Variables
+  t : tableau d'entier de taille 20
+  n : entier // nombre efefctif d'éléments
+Debut
+  Si n >=0 alors
+    Pour i = 1 à n faire
+      t[i] := i+1
+    FPour
+  FSi
+Fin  
