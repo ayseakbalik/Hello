@@ -1,0 +1,10 @@
+Algorithme Fefesse de Beuh
+Variables
+  moi : entier
+  margot : vache
+  nutty : lapin
+Debut
+  Si c'est pas fini alors
+    On continue
+  FSi
+Fin  
