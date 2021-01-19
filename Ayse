@@ -1,1 +1,7 @@
 Ayse is writing
+
+Au début c'est assez pénible...
+
+For i=1 to 10
+  Create file_i
+end-For
